@@ -1,70 +1,87 @@
 const portfolio = [
     {
         id: 0,
-        projectName: "JMM ERP",
-        url: "https://jmmerp.com/",
-        image: "projects/erp.png",
-        projectDetail: "Restructure your business with JMM ERP’s all-in-one cloud-based ERP. JMM ERP provides a robust, cost-effective online solution with state-of-the-art software to increase business value and enhance customer impact.",
+        projectName: "Dust Particle Control System",
+        url: "https://dust-particle-control.streamlit.app/",
+        image: "projects/dpcs.jpg",
+        projectDetail: "The Dust Particle Control System is a Streamlit-based web application designed to monitor and predict dust particle concentrations (PM2.5 and PM10) using advanced machine learning techniques. This tool enables environmental agencies, industries, and researchers to analyze air quality data, visualize trends, and forecast PM2.5 levels for proactive dust control.",
         technologiesUsed: [
             {
-                tech: "ReactJS"
+                tech: "Python"
             },
             {
-                tech: ".net"
+                tech: "Streamlit"
             },
             {
-                tech: "GraphQL"
+                tech: "Pandas"
             },
             {
-                tech: "Ant Design"
+                tech: "NumPy"
             },
             {
-                tech: "TailwindCSS"
+                tech: "Scikit-learn"
             },
+            {
+                tech: "XGBoost"
+            },
+            {
+                tech: "Matplotlib"
+            },
+            {
+                tech: "Seaborn"
+            },
+            {
+                tech: "Joblib"
+            },
+            {
+                tech: "SQLite"
+            },
+            {
+                tech:"Streamlit Community Cloud"
+            }
         ]
     },
+
     {
-        id: 0,
-        projectName: "ABSCO",
-        url: "https://absco.sa/",
-        image: "projects/absco.png",
-        projectDetail: "ABSCO offer unparalleled business consulting solutions to meet client’s unique needs.",
-        technologiesUsed: [
-            {
-                tech: "ReactJS"
-            },
-            {
-                tech: "Ant Design"
-            },
-            {
-                tech: "TailwindCSS"
-            },
-        ]
-    },
-    {
-        id: 0,
-        projectName: "JMM Technologies",
-        url: "https://jmm.ltd/",
-        image: "projects/jmm.png",
-        projectDetail: "JMM Technologies is a start-up turned technology company with extensive years of experience delivering digital solutions. As a fast-growing tech firm, we help diverse businesses and organizations. Our expertise in innovative, state-of-the-art digital services accelerates business growth and enhances customer impact.",
-        technologiesUsed: [
-            {
-                tech: "ReactJS"
-            },
-            {
-                tech: ".net"
-            },
-            {
-                tech: "REST API's"
-            },
-            {
-                tech: "Ant Design"
-            },
-            {
-                tech: "TailwindCSS"
-            },
-        ]
-    },
+    id: 0,
+    projectName: "Breast Cancer Detection System",
+    url: "https://www.youtube.com/watch?v=pXYgyJ3ne7A",
+    image: "projects/BreastCancer.jpg",
+    projectDetail: "An advanced deep learning application for early breast cancer detection. This system processes histopathological image patches using a custom ResNet18 model in PyTorch, visualizes entire tissue slices with cancer overlays and heatmaps, and offers an intuitive Streamlit interface for healthcare practitioners to interact with predictions.",
+    technologiesUsed: [
+        { tech: "Python" },
+        { tech: "PyTorch" },
+        { tech: "Streamlit" },
+        { tech: "NumPy" },
+        { tech: "Pandas" },
+        { tech: "Matplotlib" },
+        { tech: "Seaborn" },
+        { tech: "Torchvision" },
+        { tech: "Scikit-learn" },
+        { tech: "Pillow" },
+        { tech: "Scikit-image" },
+        { tech: "TensorFlow" },
+        { tech: "TQDM" }
+    ]
+},
+
+{
+    id: 0,
+    projectName: "Nigeria Banditry Attack Data Mining and Analysis",
+    url: "https://github.com/AkinwandeSlim/NG-Banditry-Analysis",
+    image: "projects/NGBA.jpg",
+    projectDetail: "This project applies data mining and predictive modeling techniques to analyze and forecast banditry incidents across Nigeria. Using ACLED crime data, socioeconomic indicators, and machine learning models like XGBoost, the study identifies high-risk LGAs, key drivers of crime (e.g., poverty and deprivation), and provides actionable insights for national security strategy.",
+    technologiesUsed: [
+        { tech: "Python" },
+        { tech: "Jupyter" },
+        { tech: "pandas" },
+        { tech: "scikit-learn" },
+        { tech: "XGBoost" },
+        { tech: "SHAP" },
+        { tech: "GeoPandas" }
+    ]
+}
+,
     {
         id: 0,
         projectName: "ALSN",
