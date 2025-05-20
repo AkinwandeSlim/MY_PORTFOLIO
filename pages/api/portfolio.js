@@ -2,7 +2,7 @@ const portfolio = [
     {
         id: 0,
         projectName: "Dust Particle Control System",
-        url: "https://dust-particle-control.streamlit.app/",
+        url: "https://github.com/AkinwandeSlim/Dust-Particle-Control-System.git",
         image: "projects/dpcs.jpg",
         projectDetail: "The Dust Particle Control System is a Streamlit-based web application designed to monitor and predict dust particle concentrations (PM2.5 and PM10) using advanced machine learning techniques. This tool enables environmental agencies, industries, and researchers to analyze air quality data, visualize trends, and forecast PM2.5 levels for proactive dust control.",
         technologiesUsed: [
@@ -82,60 +82,64 @@ const portfolio = [
     ]
 }
 ,
+{
+    id: 0,
+    projectName: "SLUK-TPMA",
+    url: "https://tpma-frontend.vercel.app/",
+    image: "projects/TPMA.jpg",
+    projectDetail: "A Teaching Practice Management Application (TPMA) developed for Sule Lamido University, Kafin Hausa, Jigawa State, Nigeria in collaboration with NITDA. The system simplifies the assignment and supervision of teaching practice students with features like trainee/supervisor CRUD, school listings, authentication, and assignment workflows. Designed with scalability and ease of use in mind for academic institutions.",
+    technologiesUsed: [
+        {
+            tech: "Next.js"
+        },
+        {
+            tech: "Flask (Python)"
+        },
+        {
+            tech: "TailwindCSS"
+        },
+        {
+            tech: "JWT Authentication"
+        },
+        {
+            tech: "React Hook Form + Zod"
+        },
+        {
+            tech: "REST API"
+        }
+    ]
+}
+,
     {
         id: 0,
-        projectName: "ALSN",
-        url: "https://alsn.app/",
-        image: "projects/alsn.png",
-        projectDetail: "ASLN drives digital transformation with certified document translation services. In an interconnected world where seamless communication is imperative, they are strategically positioned to cater to the needs of businesses, individuals, and organizations.",
+        projectName: "Django E-bankwebsite",
+        url: "https://github.com/AkinwandeSlim/Django-bankwebsite.git",
+        image: "projects/bankweb.jpg",
+        projectDetail: "A secure, full-stack banking application built with Django. It features secure user authentication, account management, transaction handling, and an admin dashboard. Designed with a responsive interface for both desktop and mobile, this project showcases best practices in full-stack development for financial systems.",
         technologiesUsed: [
             {
-                tech: "ReactJS"
+                tech: "Django"
             },
             {
-                tech: ".net"
+                tech: "Python"
             },
             {
-                tech: "REST API's"
+                tech: "HTML/CSS"
             },
             {
-                tech: "Ant Design"
+                tech: "JavaScript"
             },
             {
-                tech: "TailwindCSS"
-            },
+                tech: "Bootstrap"
+            }
         ]
-    },
+},
     {
         id: 0,
-        projectName: "FirmSanad",
-        url: "/domain-expired",
-        image: "projects/firmsanad.png",
-        projectDetail: "Invest in Saudi Arabia, Streamline Your Business Setup Process in Saudi Arabia with FirmSanad Simplify the process of obtaining licenses and starting a business in Saudi Arabia with our streamlined platform.",
-        technologiesUsed: [
-            {
-                tech: "ReactJS"
-            },
-            {
-                tech: ".net"
-            },
-            {
-                tech: "REST API's"
-            },
-            {
-                tech: "Ant Design"
-            },
-            {
-                tech: "TailwindCSS"
-            },
-        ]
-    },
-    {
-        id: 0,
-        projectName: "Fateh Al Mustaqbil",
-        url: "https://fatehtour.com/",
-        image: "projects/fateh.png",
-        projectDetail: "Fateh Al Mustaqbil is a one-of-a-kind travel agency designed to cater to the interests of travelers across the globe, founded in 2023 in Riyadh, Saudi Arabia. Their expertise lies in crafting exceptional journeys tailored to each client's unique requirements, whether it be ticketing, hotel bookings, or visa assistance.",
+        projectName: "MANET NETWORK INTRUSION DETECTION",
+        url: "https://www.youtube.com/watch?v=ZFatL-b8YzI",
+        image: "projects/MANET.jpg",
+        projectDetail: "This Network Intrusion Detection System (NIDS) for Mobile Ad-Hoc Networks (MANET) simulates real-time file event monitoring across multiple nodes and routes encrypted alerts securely to an admin node. It is tailored for volatile environments such as military ops, disaster zones, and IoT systems.",
         technologiesUsed: [
             {
                 tech: "ReactJS"
@@ -178,24 +182,24 @@ const portfolio = [
             },
         ]
     },
-    {
+ {
         id: 1,
-        projectName: "Otawix",
-        url: "https://b2c.otawix.com/",
-        image: "projects/otawix.png",
-        projectDetail: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam corrupti aut veritatis, adipisci natus optio dolores cum rem? Aut perferendis fugit, eos rerum totam aspernatur iure alias temporibus ipsa perspiciatis!",
+        projectName: "MANET NETWORK INTRUSION DETECTION",
+        url: "https://www.youtube.com/watch?v=ZFatL-b8YzI",
+        image: "projects/MANET.jpg",
+        projectDetail: "This Network Intrusion Detection System (NIDS) for Mobile Ad-Hoc Networks (MANET) simulates real-time file event monitoring across multiple nodes and routes encrypted alerts securely to an admin node. It is tailored for volatile environments such as military ops, disaster zones, and IoT systems.",
         technologiesUsed: [
             {
-                tech: "NextJS"
+                tech: "ReactJS"
             },
             {
-                tech: "NodeJS"
+                tech: ".net"
             },
             {
                 tech: "REST API's"
             },
             {
-                tech: "MUI"
+                tech: "Ant Design"
             },
             {
                 tech: "TailwindCSS"
