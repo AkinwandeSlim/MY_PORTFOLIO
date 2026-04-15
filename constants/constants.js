@@ -22,16 +22,16 @@ export const SKILLS = [
   //   level: '75%',
   // },
   {
-    title: 'Python Web Developer',
+    title: 'Full stack Web Developer',
     level: '85%',
   },
   {
     title: 'Software Engineering',
-    level: '65%',
+    level: '85%',
   },
   {
     title: 'Graphics Designer',
-    level: '60%',
+    level: '70%',
   },
 ];
 
@@ -77,7 +77,7 @@ export const TECH_STACK = [
 ];
 
 export const CONTACTS = {
-  EMAIL: 'alexdata2022@gmail.com',
+  EMAIL: 'akinwandealex95@gmail.com',
   PHONE: '+2348126378786',
 };
 export const SOCIAL_LINKS = {
