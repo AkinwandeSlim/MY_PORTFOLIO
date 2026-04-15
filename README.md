@@ -4,7 +4,7 @@
   <br />
   <br />
   
-  <img src="./public/readme-images/moj.png" />
+  <img src="./public/readme-images/mojs.png" />
 
   <h2 align="center">Fakorede Akinwande Alexander - Personal portfolio</h2>
 
@@ -18,7 +18,7 @@ This website is fully responsive personal portfolio, <br />Responsive for all de
 
 ### Demo Screeshots
 
-![Osama Portfolio Desktop Demo](./public/readme-images/portfolio.png "Desktop Demo")
+![Alex Portfolio Desktop Demo](./public/readme-images/portfolio.png "Desktop Demo")
 
 ### Prerequisites
 
@@ -33,13 +33,13 @@ To run **portfolio** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/osamajavaid/portfolio.git
+sudo git clone https://github.com/AkinwandeSlim/MY_PORTFOLIO.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/osamajavaid/portfolio.git
+git clone https://github.com/AkinwandeSlim/MY_PORTFOLIO.git
 ```
 
 ### Contact
